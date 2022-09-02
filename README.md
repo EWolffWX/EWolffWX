@@ -1,4 +1,5 @@
-### Hi there 👋
+Graduate student at the University of Illinois Urbana-Champaign
+Radar and satellite remote sensing
 
 <!--
 **EWolffWX/EWolffWX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
