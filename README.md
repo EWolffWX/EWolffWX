@@ -1,6 +1,6 @@
-Graduate student at the University of Illinois Urbana-Champaign
+Graduate student at the University of Illinois Urbana-Champaign Department of Atmospheric Sciences
 
-Radar and satellite remote sensing
+Focus on radar and satellite remote sensing
 
 <!--
 **EWolffWX/EWolffWX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
