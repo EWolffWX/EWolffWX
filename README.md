@@ -1,4 +1,4 @@
-Graduate student at the University of Illinois Urbana-Champaign Department of Atmospheric Sciences
+Graduate student in the University of Illinois Urbana-Champaign Department of Atmospheric Sciences
 
 Focus on radar and satellite remote sensing
 
